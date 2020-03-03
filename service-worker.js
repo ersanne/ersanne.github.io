@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b625b52cd1e2132692f5de9c34c3fa66.js"
+  "/precache-manifest.f027815ea4cf7f6417076aabe70d7b79.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ersanne.github.io"});
