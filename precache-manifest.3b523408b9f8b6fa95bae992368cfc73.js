@@ -4,6 +4,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ErikSanne_CV.pdf"
   },
   {
+    "revision": "edff59d3e2d2e0db88bf300394e581e9",
+    "url": "/_redirects"
+  },
+  {
     "revision": "53d6861b33656b2cdee3",
     "url": "/css/about.ae2776e5.css"
   },
