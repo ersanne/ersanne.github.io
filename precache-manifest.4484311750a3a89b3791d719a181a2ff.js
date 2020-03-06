@@ -4,15 +4,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ErikSanne_CV.pdf"
   },
   {
-    "revision": "81a520040c9b023a1a05",
+    "revision": "e0bddc1ccfc28e853768",
     "url": "/css/about.ae2776e5.css"
   },
   {
-    "revision": "67870999afff149e4649",
+    "revision": "c78cf2d3c55c769cb9e3",
     "url": "/css/app.ee30d43f.css"
   },
   {
-    "revision": "3aab9486beb8797481cd",
+    "revision": "e85f3244e17b317ffe52",
     "url": "/css/chunk-vendors.46427a88.css"
   },
   {
@@ -48,20 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/profile_pic.jpg"
   },
   {
-    "revision": "285acf0122dac0ff73de094f58971676",
+    "revision": "168f9bcc260089e56ec99aff950fdd22",
     "url": "/index.html"
   },
   {
-    "revision": "81a520040c9b023a1a05",
-    "url": "/js/about.9512e18c.js"
+    "revision": "e0bddc1ccfc28e853768",
+    "url": "/js/about.6ed5674c.js"
   },
   {
-    "revision": "67870999afff149e4649",
-    "url": "/js/app.0ad82f45.js"
+    "revision": "c78cf2d3c55c769cb9e3",
+    "url": "/js/app.42f27d74.js"
   },
   {
-    "revision": "3aab9486beb8797481cd",
-    "url": "/js/chunk-vendors.fa64b22b.js"
+    "revision": "e85f3244e17b317ffe52",
+    "url": "/js/chunk-vendors.d8bf6f84.js"
   },
   {
     "revision": "34b8b22fa3d03da186275e28521f2c7a",
