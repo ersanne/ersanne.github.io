@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ErikSanne_CV.pdf"
   },
   {
-    "revision": "e0bddc1ccfc28e853768",
+    "revision": "3e9d372b7a56486c9d19",
     "url": "/css/about.ae2776e5.css"
   },
   {
-    "revision": "47d7d5f2b68ef3f2dfb3",
+    "revision": "37ed0c770657c68e4d1e",
     "url": "/css/app.ee30d43f.css"
   },
   {
@@ -48,16 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/profile_pic.jpg"
   },
   {
-    "revision": "d9dac7cf0a1424c4208b4d9f521d798e",
+    "revision": "6451af87a8a380df032f0c817d82fd1b",
     "url": "/index.html"
   },
   {
-    "revision": "e0bddc1ccfc28e853768",
-    "url": "/js/about.6ed5674c.js"
+    "revision": "3e9d372b7a56486c9d19",
+    "url": "/js/about.02247cc3.js"
   },
   {
-    "revision": "47d7d5f2b68ef3f2dfb3",
-    "url": "/js/app.13876c53.js"
+    "revision": "37ed0c770657c68e4d1e",
+    "url": "/js/app.8e5d22ab.js"
   },
   {
     "revision": "e85f3244e17b317ffe52",
